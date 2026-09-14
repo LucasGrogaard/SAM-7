@@ -2,9 +2,6 @@
             SAM-7 is an audio-based annunciator for specialized automotive applications.
 
 ## ∆ Development has recently started ∆
-    :: more information will come
-    further into the development
-    process.
+more information will come further into the development process.
 
-
-
+##
