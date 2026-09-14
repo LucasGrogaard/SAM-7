@@ -4,3 +4,6 @@
 ## ∆ Development has recently started ∆
 More information will come further into the development process.
 ##
+
+
+⌁ LUCAS GRØGAARD ⌁ MMXXVI ⌁
